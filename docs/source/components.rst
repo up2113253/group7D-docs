@@ -2,7 +2,7 @@ Main Components
 ===============
 
 Pages
-------
+
 
 1. Home Page
 2. Search Page
