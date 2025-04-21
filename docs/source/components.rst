@@ -1,7 +1,7 @@
 Main Components
 ===============
 
-Pages
+**Pages**
 
 
 1. Home Page
@@ -15,14 +15,14 @@ Pages
 
 Each of these pages and their functionality is outlined below.
 
-Home Page
----------
+**Home Page**
+
 The **Home Page** serves as the main dashboard for the app. It features:
 - **Suggested Recipes**: A randomized list of recipes displayed to the user.
 - **Navigation**: Links to other key pages in the app (Search, Bookmarks, Meal Plan, etc.).
 
-Code Overview
--------------
+**Code Overview**
+
 The Home Page is built using Flutter and Dart. It uses the `HomePage.dart` file and integrates Firebase to fetch recipes. The layout is built with `ListView` for a scrollable display of recipe cards.
 
 
